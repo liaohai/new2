@@ -12,6 +12,6 @@ func main() {
 
 	res :=calc.Sub(30 ,20)
 	fmt.Println("++++",res)
-	
-	fmt.Println("====")
+	res :=calc.Multi(30 ,20)
+	fmt.Println("====",res)
 }
