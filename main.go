@@ -10,6 +10,7 @@ func main() {
 	fmt.Println("Add(a, b int)",add)
 	fmt.Println("++++")
 
-	fmt.Println("++++")
+	res :=calc.Sub(30 ,20)
+	fmt.Println("++++",res)
 	fmt.Println("====")
 }
