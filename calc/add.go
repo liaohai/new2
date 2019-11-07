@@ -1,6 +1,8 @@
 package calc
 
-func Add(a, b int) int {
+import "fmt"
 
+func Add(a, b int) int {
+	fmt.Println("add !!")
 	return a + b
 }
