@@ -23,4 +23,12 @@ func main() {
 	res =calc.Multi(30 ,20)
 	fmt.Println("====",res)
 
+
+	res =calc.Multi(30 ,20)
+	fmt.Println("====",res)
+
+	res =calc.Multi(30 ,20)
+	fmt.Println("====",res)
+
+
 }
